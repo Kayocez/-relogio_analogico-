@@ -1,5 +1,8 @@
 # -relogio_analogico-
-this is my first project in github
+this is my first project in github!
+
+# About 
+This project consists of structuring an analog clock with the technologies below.
 
 #Technology
 HTML
